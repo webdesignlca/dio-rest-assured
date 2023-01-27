@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: api.automation.restfulbooker.test.BookingTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 39.5 s - in api.automation.restfulbooker.test.BookingTests
